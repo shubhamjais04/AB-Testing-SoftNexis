@@ -103,7 +103,7 @@ jupyter notebook ab_testing_hypothesis.ipynb
 
 ## 👨‍💻 Author
 
-**Shubham Jaiswal**
+**Shubham Jaiswal**  
 *Statistical thinker | Using hypothesis testing to separate signal from noise in business data*
 
 ---
